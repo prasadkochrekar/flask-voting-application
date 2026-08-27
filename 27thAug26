@@ -1,0 +1,15 @@
+from flask import Flask
+app - Flask(27thAug26)
+@app.route(" /")
+def home():
+return
+"Welcome to the App"
+@app-route(*/health")
+def health):
+return "App is running"
+cape route(" /health")
+def healtho:
+return "App is running"
+if name_=
+- " main ":
+app, run debug-True)
